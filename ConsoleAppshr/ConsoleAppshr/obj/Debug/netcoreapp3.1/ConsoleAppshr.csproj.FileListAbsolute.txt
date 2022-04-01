@@ -1,0 +1,14 @@
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\bin\Debug\netcoreapp3.1\ConsoleAppshr.exe
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\bin\Debug\netcoreapp3.1\ConsoleAppshr.deps.json
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\bin\Debug\netcoreapp3.1\ConsoleAppshr.runtimeconfig.json
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\bin\Debug\netcoreapp3.1\ConsoleAppshr.runtimeconfig.dev.json
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\bin\Debug\netcoreapp3.1\ConsoleAppshr.dll
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\bin\Debug\netcoreapp3.1\ConsoleAppshr.pdb
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.csproj.AssemblyReference.cache
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.AssemblyInfoInputs.cache
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.AssemblyInfo.cs
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.csproj.CoreCompileInputs.cache
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.dll
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.pdb
+C:\Jenkins\msbuild_project\ConsoleAppshr\ConsoleAppshr\obj\Debug\netcoreapp3.1\ConsoleAppshr.genruntimeconfig.cache
