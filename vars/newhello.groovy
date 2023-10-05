@@ -1,5 +1,3 @@
-#!/usr/bin/env groovy
-
-def call(String name = 'human') {
-  echo "Hello, ${name}."
+def call(name) {
+  echo "greetings {$name}. How are you doing today?"
 }
